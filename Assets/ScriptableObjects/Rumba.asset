@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicName: NuevaYol
   danceName: Rumba
-  notesConfig: {fileID: 0}
-  speed: 0
+  notesConfig: {fileID: 4900000, guid: b657d2da8f66dcf4fbf85caaab4d0bbe, type: 3}
+  speed: 100
