@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Twist
   m_EditorClassIdentifier: 
   musicName: Footloose
-  danceName: Twist
+  animationName: Twist
   notesConfig: {fileID: 4900000, guid: 72f560b340aa8844f8bf6417deea9ea5, type: 3}
   speed: 100
