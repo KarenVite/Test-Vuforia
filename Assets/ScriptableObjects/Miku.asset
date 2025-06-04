@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: MagicalCureLoveShot
   animationName: Marachino
   notesConfig: {fileID: 4900000, guid: 44c9f5b22ea14e64283f51da5414ba3b, type: 3}
-  speed: 200
+  speed: 250

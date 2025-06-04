@@ -1,0 +1,35 @@
+{
+    "notes":
+    [
+        {"time": 0.9, "lane":0},
+        {"time": 1.9, "lane":1},
+        {"time": 2.3, "lane":2},
+        {"time": 2.7, "lane":1},
+        {"time": 3.3, "lane":0},
+        {"time": 4.1, "lane":1},
+        {"time": 5.6, "lane":2},
+        {"time": 7.1, "lane":0},
+        {"time": 8.6, "lane":1},
+        {"time": 10.1, "lane":2},
+        {"time": 11.6, "lane":0},
+        {"time": 13.1, "lane":1},
+        {"time": 14.6, "lane":2},
+        {"time": 16.1, "lane":0},
+        {"time": 17.3, "lane":1},
+        {"time": 17.6, "lane":2},
+	    {"time": 18.1, "lane":0},
+        {"time": 18.8, "lane":1},
+        {"time": 19.5, "lane":2},
+        {"time": 20.7, "lane":1},
+        {"time": 21.2, "lane":0},
+        {"time": 22.1, "lane":1},
+        {"time": 22.7, "lane":2},
+        {"time": 24.1, "lane":0},
+        {"time": 24.6, "lane":1},
+        {"time": 25.4, "lane":2},
+        {"time": 26.1, "lane":0},
+        {"time": 26.6, "lane":1},
+        {"time": 27.1, "lane":2},
+        {"time": 27.7, "lane":0}
+    ]
+}

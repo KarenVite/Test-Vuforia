@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: Footloose
   animationName: Twist
   notesConfig: {fileID: 4900000, guid: 72f560b340aa8844f8bf6417deea9ea5, type: 3}
-  speed: 100
+  speed: 150

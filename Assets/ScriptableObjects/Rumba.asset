@@ -15,4 +15,4 @@ MonoBehaviour:
   musicName: NuevaYol
   animationName: Rumba
   notesConfig: {fileID: 4900000, guid: b657d2da8f66dcf4fbf85caaab4d0bbe, type: 3}
-  speed: 100
+  speed: 200
